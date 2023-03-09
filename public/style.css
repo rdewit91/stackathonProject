@@ -1,0 +1,59 @@
+* {
+    margin: 2px;
+  }
+  
+  body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: lightskyblue;
+  }
+
+  #mainHead {
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+  }
+
+  #navbar {
+    display: flex;
+    justify-content: center;
+   
+  }
+
+  #student-form {
+    font-size: small;
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+  }
+
+  #campus-form {
+    font-size: small;
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+  }
+
+  #allStuHead {
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+  }
+
+  #allCamHead {
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+  }
+  
+  img {
+    margin: 2px;
+    max-height: 150px;
+    max-width: 150px;
+  }
+
+
+
+  
+
+  
+  
